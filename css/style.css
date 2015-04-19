@@ -1,0 +1,30 @@
+.row, .row-fluid ,.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11 , .span12, .container-fluid
+{
+ /*background: #ffffee;
+ border-radius: 5px;
+ border: 1px solid grey;*/
+}
+.row, .row-fluid 
+{
+}
+table tr:hover{cursor:pointer;}
+.pre-scrollable
+{
+ white-space: wrap;
+}
+
+td.alpha
+{
+ background: #f0f0f0;
+ padding: 15px;
+ font-size: 35px;
+}
+td.alpha:hover
+{
+ background: #e2e2e2;
+ cursor: pointer;
+}
+#inword
+{
+ font-size: 45px;
+}
